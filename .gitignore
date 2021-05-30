@@ -1,0 +1,16 @@
+# Ignore all
+*
+
+# Unignore all with extensions
+!*.*
+
+# Unignore all dirs
+!*/
+
+## The above combination ignore all files without extension 
+# Ignore .dSYM file
+*.dSYM
+
+# ignore .DSStore
+*/.DS_Store
+.DS_Store
